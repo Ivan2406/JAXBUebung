@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<buecherei adresse="Mariahilferstraße 22" name="Thalia">
+    <buchList>
+        <buch autor="Daniel Kehlmann" name="Die Vermessung der Welt" verlag="OEGB"/>
+        <buch/>
+    </buchList>
+</buecherei>
